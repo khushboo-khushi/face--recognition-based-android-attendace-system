@@ -8,6 +8,8 @@ It works offline, in real time
 
 It uses a mobile-oriented deep learning architecture
 
+This is real time face recognition model which uses mobile FaceNet and tensorflow lite for its development.
+
 file:///home/khushboo/Downloads/Screenshot_2023-10-05-15-44-12-91_ebdfe411e5f8a990c8f34efaa4264617.jpg
 
 
